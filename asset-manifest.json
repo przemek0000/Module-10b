@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Module-10b/static/css/main.9f1a2987.css",
-    "main.js": "/Module-10b/static/js/main.2e44802b.js",
+    "main.js": "/Module-10b/static/js/main.6fbc5419.js",
     "static/js/787.3f281844.chunk.js": "/Module-10b/static/js/787.3f281844.chunk.js",
     "static/media/atmMachine.png": "/Module-10b/static/media/atmMachine.6f4678d1c8737a66db46.png",
     "index.html": "/Module-10b/index.html",
     "main.9f1a2987.css.map": "/Module-10b/static/css/main.9f1a2987.css.map",
-    "main.2e44802b.js.map": "/Module-10b/static/js/main.2e44802b.js.map",
+    "main.6fbc5419.js.map": "/Module-10b/static/js/main.6fbc5419.js.map",
     "787.3f281844.chunk.js.map": "/Module-10b/static/js/787.3f281844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f1a2987.css",
-    "static/js/main.2e44802b.js"
+    "static/js/main.6fbc5419.js"
   ]
 }
